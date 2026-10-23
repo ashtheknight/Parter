@@ -1,5 +1,7 @@
 # Parter
 Parter - Parts + Counter.   Parter is a a parts counter as simple as that but still something I desperately need.
+<img width="346" height="957" alt="image" src="https://github.com/user-attachments/assets/184c4156-e1fd-4cd6-ba10-85da31f3053e" />
+
 
 Parter is simple in design but well though out it has an inset section where it stops multiple pieces from going through the ir sensor section so that part are correctly counted
 
